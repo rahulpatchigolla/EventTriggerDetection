@@ -1,4 +1,4 @@
-1. Before going through these instructions please perform the instructions upto step 6 in "RNN_ReadMe.txt" file.
+1. Before going through these instructions please perform the instructions upto step 7 in "RNN_ReadMe.txt" file.
 2. Run Process.sh file to generate "train.txt" and "test.txt" files.
 3. Copy those two files into CNN folder.
 4. Run GenerateData.py file to generate the file training and testing files. 
